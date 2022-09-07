@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1Aq | wc -l
+ldir ". .."
