@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a --ignore= . .. | wc -l
+tree -L 2 | tail -1
