@@ -1,2 +1,2 @@
 #!/bin/bash
-tree -L 2 | tail -1
+find . -type d | wc -l
