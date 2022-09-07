@@ -1,2 +1,2 @@
 #!/bin/bash
-tree -L 2 | wc -l
+ls -a --ignore= . .. | wc -l
