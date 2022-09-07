@@ -1,2 +1,2 @@
 #!/bin/bash
-ldir ". .."
+find . -mindepth 2 -type d | wc -l
