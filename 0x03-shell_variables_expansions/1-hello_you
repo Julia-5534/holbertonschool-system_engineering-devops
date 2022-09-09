@@ -1,2 +1,2 @@
 #!/bin/bash
-alias id -u='hello user'
+alias id -u -n='hello user'
