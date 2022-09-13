@@ -1,2 +1,4 @@
 #!/usr/bin/bash
-Bash script that kills the process 7-highlander.
+# Bash script that kills the process 7-highlander.
+
+pkill -SIGKILL -f "7-highlander"
